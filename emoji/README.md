@@ -11,7 +11,7 @@
 <textarea class="emoji-content"></textarea>
 ```
 ### demo
-  [demo][https://clarkyi.github.io/emoji/index.html]
+  在线体验可以访问 [demo](https://clarkyi.github.io/emoji/index.html)
 #### 效果
 ![preview](https://clarkyi.github.io/images/01.png)
 #### 展示emoji
