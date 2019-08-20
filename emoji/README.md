@@ -8,8 +8,10 @@
 页面上添加引入按钮
 ```
 <a class="btn show-emoji">选择emoji</a>
-<texarea class="emoji-content"></textarea>
+<textarea class="emoji-content"></textarea>
 ```
+### demo
+  [demo][https://clarkyi.github.io/emoji/index.html]
 #### 效果
 ![preview](https://clarkyi.github.io/images/01.png)
 #### 展示emoji
